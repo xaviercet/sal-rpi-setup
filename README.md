@@ -1,1 +1,1 @@
-# sal-rpi-setup
+# Setup Raspberry Pi's via Script
